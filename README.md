@@ -1,4 +1,4 @@
-# 🎓 Student Lab Portfolio — BCA AI (2026 Batch)
+,# 🎓 Student Lab Portfolio — BCA AI (2026 Batch)
 
 **Student Name:** DRISHTY GUPTA  
 **Roll Number:** `2610997624`  
